@@ -24,3 +24,6 @@ Foglendes wird benötigt:
 - Nun erzeugt man ein Dashboard und importiert den Inhalt von `view/Kaeltekreis.json` per "copy & paste" im Raw-Konfiguarationseditor.
   ![image](https://github.com/jwende/ha.vis.vitocal250/assets/3383864/28912996-fd2b-416c-9bcb-3503508c0a00)
 
+## Weitere Informationen
+- in der [open3e Wiki](https://github.com/open3e/open3e/wiki/090-Homeassistant#mqtt-und-homeassistant-konfiguration-für-vx3) ist auch
+ein längerer Beitrag zur Konfiguration von HomeAssistant zu finden
